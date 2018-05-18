@@ -20,7 +20,6 @@ Bot-jsのライセンスは**MIT License**に設定されています。
 
 > ### Mit LICENSE
 ```
-
 Copyright (c) 2018 CTS-DG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
