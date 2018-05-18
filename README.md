@@ -19,7 +19,9 @@ Bot-jsのライセンスは**MIT License**に設定されています。
  不具合などが見つかった場合はDiscordの`#報告`またはこのレポジトリのIssuesに報告するようお願いいたします。
 
 > ### Mit LICENSE
-```Copyright (c) 2018 CTS-DG
+```
+
+Copyright (c) 2018 CTS-DG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,4 +39,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.```
+SOFTWARE.
+```
